@@ -40,7 +40,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    --padding-container: 60px 0 45px;
+    /* --padding-container: 60px 0 45px; */
 }
 
 .hero__logo{
